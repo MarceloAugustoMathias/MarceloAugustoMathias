@@ -1,4 +1,6 @@
-<img src="https://user-images.githubusercontent.com/63008393/138017152-315f1996-5ceb-460f-9e4a-89a0e23092d1.png" min-width="220px" max-width="220px" width="220px" align="right" alt="Computador iuriCode">
+<a href="https://www.credly.com/badges/c9870979-f43f-46ac-b4ba-0cac6b6638fd">
+  <img src="https://user-images.githubusercontent.com/63008393/138017152-315f1996-5ceb-460f-9e4a-89a0e23092d1.png" min-width="220px" max-width="220px" width="220px" align="right" alt="Computador iuriCode">
+</a>
 
 ![](https://komarev.com/ghpvc/?username=MarceloAugustoMathias&color=006bed)
 
