@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
+<img src="https://user-images.githubusercontent.com/63008393/138017152-315f1996-5ceb-460f-9e4a-89a0e23092d1.png" min-width="220px" max-width="220px" width="220px" align="right" alt="Computador iuriCode">
 
 ![](https://komarev.com/ghpvc/?username=MarceloAugustoMathias&color=006bed)
 
@@ -62,3 +62,4 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-augusto-16070565/)
 [![Mail](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marceloaom95@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarceloAugustoMathias/)
+
